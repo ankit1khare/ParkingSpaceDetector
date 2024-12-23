@@ -1,0 +1,11 @@
+empty_spaces:
+- coordinates:
+    x_max: 0.583
+    x_min: 0.481
+    y_max: 0.143
+    y_min: 0.021
+- coordinates:
+    x_max: 0.888
+    x_min: 0.786
+    y_max: 0.16299999999999998
+    y_min: 0.041
